@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/advancevideostreamingapp/static/css/main.c8e22647.css",
-    "main.js": "/advancevideostreamingapp/static/js/main.df3446b9.js",
+    "main.js": "/advancevideostreamingapp/static/js/main.27c6e03b.js",
     "static/js/453.73647633.chunk.js": "/advancevideostreamingapp/static/js/453.73647633.chunk.js",
     "index.html": "/advancevideostreamingapp/index.html",
     "main.c8e22647.css.map": "/advancevideostreamingapp/static/css/main.c8e22647.css.map",
-    "main.df3446b9.js.map": "/advancevideostreamingapp/static/js/main.df3446b9.js.map",
+    "main.27c6e03b.js.map": "/advancevideostreamingapp/static/js/main.27c6e03b.js.map",
     "453.73647633.chunk.js.map": "/advancevideostreamingapp/static/js/453.73647633.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8e22647.css",
-    "static/js/main.df3446b9.js"
+    "static/js/main.27c6e03b.js"
   ]
 }
