@@ -9,8 +9,8 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-          <Route path='videostreamingapp' index element={<Home />} />
-          <Route path="videostreamingapp/videocall" element={<VideoChat/>} />
+          <Route path='advancevideostreamingapp' index element={<Home />} />
+          <Route path="advancevideostreamingapp/videocall" element={<VideoChat/>} />
       </Routes>
     </BrowserRouter>
    </>
